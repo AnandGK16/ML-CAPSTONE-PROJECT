@@ -37,12 +37,11 @@
 This project aims to develop a predictive model to assess obesity levels based on a range of features related to eating habits, physical activity, and other lifestyle factors. The dataset comprises 2,111 records from individuals in Mexico, Peru, and Colombia, including various attributes such as demographic information, dietary habits, physical activity levels, and other health-related behaviors.
 
 Given the rising prevalence of obesity and its associated health risks, early and accurate detection of obesity levels is crucial for timely intervention and prevention of related diseases such as diabetes, cardiovascular diseases, and certain cancers. This project seeks to contribute to public health efforts by providing a reliable tool for predicting obesity levels, which can aid healthcare providers and individuals in making informed decisions about lifestyle changes and medical interventions.
----
 
 ## Objective
 
 The objective of this project is to develop an accurate obesity level prediction model using features related to eating habits, physical activity, and other lifestyle factors. The primary goal is to train a classification model capable of predicting obesity levels based on various attributes such as demographic information, dietary habits, physical activity levels, and other health-related behaviors in individuals from Mexico, Peru, and Colombia.
----
+
 
 ## Data Collection
 
@@ -69,7 +68,6 @@ It comprises information collected from individuals in Mexico, Peru, and Colombi
 
 The dataset contains 2,111 records, with each feature contributing to the assessment of an individual's obesity level. The target variable, NObeyesdad, is classified into categories representing different levels of obesity, allowing the predictive model to classify individuals accurately based on the provided attributes.
 
----
 
 ## Conclusion
 
